@@ -10,7 +10,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/ketlyn-barbosa-a995833aa?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="ketlynbarbosa783@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
